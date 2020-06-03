@@ -5,4 +5,4 @@ Performance metrics such as cosine similarity and Pearson’s correlation coeffi
 
 This project was done in a group of five as a part of the course, Information Retrieval.
 
-Files containing the text on which the translator was trained has not been uplaoded due to size restrictions.
+Files containing the text on which the translator was trained have not been uplaoded due to size restrictions.
